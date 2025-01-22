@@ -1,2 +1,3 @@
-# custom_document_rights
-Odoo module to extend product document rights
+# Custom Document Rights
+
+This module extends the product document model to add custom rights.
