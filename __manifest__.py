@@ -6,7 +6,7 @@
     'description': """
         This module extends the product document model to add custom rights.
     """,
-    'depends': ['sale', 'export'],
+    'depends': ['sale'],
     'data': [],
     'installable': True,
     'application': False,
